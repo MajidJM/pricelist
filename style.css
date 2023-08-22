@@ -1,0 +1,26 @@
+#generatedLastName, #generatedFirstName, #generatedPhoneNumber, #generatedBirthDate, #generatedAddress, #generatedPostalCode, #generatedFormattedNumber{
+    cursor: pointer;
+    transition: 0.3s;
+  }
+  #generatedLastName:hover, #generatedFirstName:hover,#generatedPhoneNumber:hover, #generatedBirthDate:hover, #generatedAddress:hover, #generatedPostalCode:hover, #generatedFormattedNumber:hover {
+    cursor: pointer;
+    background-color: rgb(112, 45, 245);
+    outline: none;
+  }
+  .purple {
+    background-color: rgb(112, 45, 245);
+  }
+  
+  .custom-tooltip {
+  --bs-tooltip-bg: var(--bd-violet-bg);
+  --bs-tooltip-color: var(--bs-white);
+}
+
+.fi{
+    background-size: contain;
+    background-position: 20%;
+    background-repeat: no-repeat;
+}
+
+
+.category-container{max-width:800px;margin:15px auto 0}.category__product-row{display:block;max-width:150%;padding:5 0px 20px}.category__title{font-size:20px;font-family:Lato-Bold,sans-serif;padding-left:10px;padding-bottom:10px;text-transform:uppercase;color:#636363}*{box-sizing:border-box}@media only screen and (min-width:768px){.category__product-container{width:25%;padding:5px}}@media only screen and (max-width:768px){.category__product-container{width:25%;padding:12px;width:33.333333%}}.category__product-container{display:inline-block;text-align:center;text-decoration:none;cursor:pointer;padding:5px;vertical-align:top}.category__product-image{display:block;border-radius:10px;margin:auto;max-width:100%}.category__product-title{color:#1e1e1e;font-size:13px;padding-top:7px;max-width:128px;margin:auto}
